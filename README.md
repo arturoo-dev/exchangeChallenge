@@ -26,9 +26,6 @@ External Requirements:
 
 - Vamos a crear un archivo `.env` en la raiz de nuestro proyecto y dentro de el vamos a crear una variable llamada `API_KEY` y asignarle nuestra api key obtenida.
 
-> **NOTE**
-> See [Install Recipes](#Install-Recipes) for additional Windows and Linux specific notes
-> and quick install snippets
 
 ### Capturas.
 <p align="center">
