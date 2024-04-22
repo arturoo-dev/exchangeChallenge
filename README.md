@@ -24,7 +24,11 @@ External Requirements:
 
 - Vamos a registrarnos en ['ExchangeRateAPI'](https://www.exchangerate-api.com/) y vamos a obtener nuestra api key.
 
-- Vamos a crear un archivo `.env` en la raiz de nuestro proyecto y dentro de el vamos a crear una variable llamada `API_KEY` y asignarle nuestra api key obtenida.
+- Vamos a crear un archivo `.env` en la raiz de nuestro proyecto y dentro de el vamos a crear una variable llamada `API_KEY` y asignarle nuestra api key obtenida de la siguiente manera:
+
+```sh
+API_KEY=aquiTuApiKey
+```
 
 
 ### Capturas.
