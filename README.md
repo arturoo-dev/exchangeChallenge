@@ -20,7 +20,6 @@ Vamos a necesitar dos librerias alojadas en el repositorio de maven:
 
 ### Archivos extra.
 
-External Requirements:
 
 - Vamos a registrarnos en ['ExchangeRateAPI'](https://www.exchangerate-api.com/) y vamos a obtener nuestra api key.
 
@@ -32,7 +31,8 @@ API_KEY=aquiTuApiKey
 
 
 ### Capturas.
-<p align="center">
+
+<p style = 'text-align:center;'>
   
 ![menu_principal](https://github.com/arturoo-dev/exchangeChallenge/assets/68787405/fe3972b5-b8b7-489f-a62c-d7f5e112e2d5)
 
